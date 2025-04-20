@@ -2,6 +2,6 @@
 
 Add this repo to your distro:
 
-    [astra-repo]
+    [astra]
     SigLevel = Optional TrustedOnly
-    Server = https://astraosreborn.github.io/$repo/$arch
+    Server = https://astraosreborn.github.io/astra-repo/$arch
